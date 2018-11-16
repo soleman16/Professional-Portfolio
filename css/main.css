@@ -1415,16 +1415,9 @@ body > footer .copyrights {
 /* /Pricing */
 
 
-
-
 /* =======================================
 7.4. Portfolio subpage
 ======================================= */
-
-.portfolio-img {
-  height: 225px;
-  width: 225px;
-}
 
 .portfolio-grid {
   margin-left: -0.5em;
